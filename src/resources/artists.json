@@ -1,25 +1,25 @@
 [
     {
-        "name" : "momo",
+        "name" : "dodo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "momo",
+                "artist" : "dodo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "momo",
+                "artist" : "dodo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "momo",
+                "artist" : "dodo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "momo",
+                "artist" : "dodo",
                 "ntracks" : 10
             }
         ]
