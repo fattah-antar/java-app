@@ -11,6 +11,16 @@
                 "title" : "album_two",
                 "artist" : "fattah",
                 "ntracks" : 15
+            },
+            {
+                "title" : "album_three",
+                "artist" : "fattah",
+                "ntracks" : 10
+            },
+            {
+                "title" : "album_four",
+                "artist" : "fattah",
+                "ntracks" : 10
             }
         ]
     }, 
@@ -21,6 +31,11 @@
                 "title" : "foo walks into a bar",
                 "artist" : "Celine",
                 "ntracks" : 12
+            },
+            {
+                "title" : "album_two",
+                "artist" : "Celine",
+                "ntracks" : 11
             }
         ]
     }, 
