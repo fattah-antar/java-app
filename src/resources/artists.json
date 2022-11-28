@@ -1,25 +1,25 @@
 [
     {
-        "name" : "foo",
+        "name" : "fattah",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "foo",
+                "artist" : "fattah",
                 "ntracks" : 12
             },
             {
                 "title" : "album_two",
-                "artist" : "foo",
+                "artist" : "fattah",
                 "ntracks" : 15
             }
         ]
     }, 
     {
-        "name" : "bar",
+        "name" : "Celine",
         "albums" : [
             {
                 "title" : "foo walks into a bar",
-                "artist" : "bar",
+                "artist" : "Celine",
                 "ntracks" : 12
             }
         ]
