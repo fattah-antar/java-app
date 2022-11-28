@@ -1,25 +1,25 @@
 [
     {
-        "name" : "oodba",
+        "name" : "koko",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "oodba",
+                "artist" : "koko",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "oodba",
+                "artist" : "koko",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "oodba",
+                "artist" : "koko",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "oodba",
+                "artist" : "koko",
                 "ntracks" : 10
             }
         ]
