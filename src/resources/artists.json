@@ -1,25 +1,25 @@
 [
     {
-        "name" : "koko",
+        "name" : "toto",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "koko",
+                "artist" : "toto",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "koko",
+                "artist" : "toto",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "koko",
+                "artist" : "toto",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "koko",
+                "artist" : "toto",
                 "ntracks" : 10
             }
         ]
