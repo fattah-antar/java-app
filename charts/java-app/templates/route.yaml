@@ -1,0 +1,15 @@
+{{- if .Values.route.create -}}
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  name: {{ include "java-app.fullname" . }}
+spec:
+  port:
+    targetPort: 9080
+  to:
+    kind: Service
+    name: {{ include "java-app.fullname" . }}
+  tls:
+    insecureEdgeTerminationPolicy: Redirect
+    termination: edge
+{{- end }}
