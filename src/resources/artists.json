@@ -1,25 +1,25 @@
 [
     {
-        "name" : "aoao",
+        "name" : "xoxo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "aoao",
+                "artist" : "xoxo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "aoao",
+                "artist" : "xoxo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "aoao",
+                "artist" : "xoxo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "aoao",
+                "artist" : "xoxo",
                 "ntracks" : 10
             }
         ]
