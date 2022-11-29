@@ -1,25 +1,25 @@
 [
     {
-        "name" : "roro",
+        "name" : "wowo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "roro",
+                "artist" : "wowo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "roro",
+                "artist" : "wowo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "roro",
+                "artist" : "wowo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "roro",
+                "artist" : "wowo",
                 "ntracks" : 10
             }
         ]
