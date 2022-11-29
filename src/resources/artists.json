@@ -1,25 +1,25 @@
 [
     {
-        "name" : "wowo",
+        "name" : "qoqo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "wowo",
+                "artist" : "qoqo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "wowo",
+                "artist" : "qoqo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "wowo",
+                "artist" : "qoqo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "wowo",
+                "artist" : "qoqo",
                 "ntracks" : 10
             }
         ]
