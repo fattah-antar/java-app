@@ -1,25 +1,25 @@
 [
     {
-        "name" : "yoyo",
+        "name" : "fofo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "yoyo",
+                "artist" : "fofo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "yoyo",
+                "artist" : "fofo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "yoyo",
+                "artist" : "fofo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "yoyo",
+                "artist" : "fofo",
                 "ntracks" : 10
             }
         ]
