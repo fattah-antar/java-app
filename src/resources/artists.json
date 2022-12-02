@@ -1,25 +1,25 @@
 [
     {
-        "name" : "roro",
+        "name" : "gogo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "roro",
+                "artist" : "gogo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "roro",
+                "artist" : "gogo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "roro",
+                "artist" : "gogo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "roro",
+                "artist" : "gogo",
                 "ntracks" : 10
             }
         ]
