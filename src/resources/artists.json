@@ -1,25 +1,25 @@
 [
     {
-        "name" : "nono",
+        "name" : "momo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "nono",
+                "artist" : "momo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "nono",
+                "artist" : "momo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "nono",
+                "artist" : "momo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "nono",
+                "artist" : "momo",
                 "ntracks" : 10
             }
         ]
