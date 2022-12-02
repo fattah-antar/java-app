@@ -1,25 +1,25 @@
 [
     {
-        "name" : "fofo",
+        "name" : "nono",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "fofo",
+                "artist" : "nono",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "fofo",
+                "artist" : "nono",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "fofo",
+                "artist" : "nono",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "fofo",
+                "artist" : "nono",
                 "ntracks" : 10
             }
         ]
