@@ -1,25 +1,25 @@
 [
     {
-        "name" : "popo",
+        "name" : "hoho",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "popo",
+                "artist" : "hoho",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "popo",
+                "artist" : "hoho",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "popo",
+                "artist" : "hoho",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "popo",
+                "artist" : "hoho",
                 "ntracks" : 10
             }
         ]
