@@ -1,25 +1,25 @@
 [
     {
-        "name" : "lolo",
+        "name" : "popo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "lolo",
+                "artist" : "popo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "lolo",
+                "artist" : "popo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "lolo",
+                "artist" : "popo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "lolo",
+                "artist" : "popo",
                 "ntracks" : 10
             }
         ]
