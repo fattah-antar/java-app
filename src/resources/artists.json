@@ -1,25 +1,25 @@
 [
     {
-        "name" : "yaya",
+        "name" : "tata",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "yaya",
+                "artist" : "tata",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "yaya",
+                "artist" : "tata",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "yaya",
+                "artist" : "tata",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "yaya",
+                "artist" : "tata",
                 "ntracks" : 10
             }
         ]
