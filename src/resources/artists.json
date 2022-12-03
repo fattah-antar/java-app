@@ -1,25 +1,25 @@
 [
     {
-        "name" : "momo",
+        "name" : "wwww",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "momo",
+                "artist" : "wwww",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "momo",
+                "artist" : "wwww",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "momo",
+                "artist" : "wwww",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "momo",
+                "artist" : "wwww",
                 "ntracks" : 10
             }
         ]
