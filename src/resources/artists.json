@@ -1,25 +1,25 @@
 [
     {
-        "name" : "bogo",
+        "name" : "jojo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "bogo",
+                "artist" : "jojo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "bogo",
+                "artist" : "jojo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "bogo",
+                "artist" : "jojo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "bogo",
+                "artist" : "jojo",
                 "ntracks" : 10
             }
         ]
