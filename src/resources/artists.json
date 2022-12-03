@@ -1,25 +1,25 @@
 [
     {
-        "name" : "oodba",
+        "name" : "abdoo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "oodba",
+                "artist" : "abdoo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "oodba",
+                "artist" : "abdoo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "oodba",
+                "artist" : "abdoo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "oodba",
+                "artist" : "abdoo",
                 "ntracks" : 10
             }
         ]
