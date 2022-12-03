@@ -1,25 +1,25 @@
 [
     {
-        "name" : "ssss",
+        "name" : "rrrr",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "ssss",
+                "artist" : "rrrr",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "ssss",
+                "artist" : "rrrr",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "ssss",
+                "artist" : "rrrr",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "ssss",
+                "artist" : "rrrr",
                 "ntracks" : 10
             }
         ]
