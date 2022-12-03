@@ -1,25 +1,25 @@
 [
     {
-        "name" : "jojo",
+        "name" : "Joury",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "jojo",
+                "artist" : "Joury",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "jojo",
+                "artist" : "Joury",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "jojo",
+                "artist" : "Joury",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "jojo",
+                "artist" : "Joury",
                 "ntracks" : 10
             }
         ]
