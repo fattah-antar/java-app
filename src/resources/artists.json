@@ -1,25 +1,25 @@
 [
     {
-        "name" : "caro",
+        "name" : "bogo",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "caro",
+                "artist" : "bogo",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "caro",
+                "artist" : "bogo",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "caro",
+                "artist" : "bogo",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "caro",
+                "artist" : "bogo",
                 "ntracks" : 10
             }
         ]
