@@ -1,25 +1,25 @@
 [
     {
-        "name" : "Ali",
+        "name" : "Vish",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "Ali",
+                "artist" : "Vish",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "Ali",
+                "artist" : "Vish",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "Ali",
+                "artist" : "Vish",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "Ali",
+                "artist" : "Vish",
                 "ntracks" : 10
             }
         ]
