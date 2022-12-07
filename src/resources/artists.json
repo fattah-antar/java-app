@@ -1,25 +1,25 @@
 [
     {
-        "name" : "Mai",
+        "name" : "Shabrawy",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "Mai",
+                "artist" : "Shabrawy",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "Mai",
+                "artist" : "Shabrawy",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "Mai",
+                "artist" : "Shabrawy",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "Mai",
+                "artist" : "Shabrawy",
                 "ntracks" : 10
             }
         ]
