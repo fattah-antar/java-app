@@ -25,16 +25,16 @@
         ]
     }, 
     {
-        "name" : "Celine",
+        "name" : "Nermeen",
         "albums" : [
             {
                 "title" : "foo walks into a bar",
-                "artist" : "Celine",
+                "artist" : "Nermeen",
                 "ntracks" : 12
             },
             {
                 "title" : "album_two",
-                "artist" : "Celine",
+                "artist" : "Nermeen",
                 "ntracks" : 11
             }
         ]
