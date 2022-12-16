@@ -1,25 +1,25 @@
 [
     {
-        "name" : "Shabrawy",
+        "name" : "Fattah",
         "albums" : [
             {
                 "title" : "album_one",
-                "artist" : "Shabrawy",
+                "artist" : "Fattah",
                 "ntracks" : 20
             },
             {
                 "title" : "album_two",
-                "artist" : "Shabrawy",
+                "artist" : "Fattah",
                 "ntracks" : 15
             },
             {
                 "title" : "album_three",
-                "artist" : "Shabrawy",
+                "artist" : "Fattah",
                 "ntracks" : 10
             },
             {
                 "title" : "album_four",
-                "artist" : "Shabrawy",
+                "artist" : "Fattah",
                 "ntracks" : 10
             }
         ]
