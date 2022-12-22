@@ -1,7 +1,7 @@
 name: GitHub Actions DemoD
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 env:
-  BRANCH_D: features/issue2
+  BRANCH_D: 'features/issue2'
 on:
   push:
     branches:
