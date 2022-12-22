@@ -1,7 +1,7 @@
 name: GitHub Actions DemoD
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 env:
-  BRANCH_D: 'features/issue2'
+  BRANCH_D: 'features'
 on:
   push:
     branches:
@@ -29,6 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: List files in the repository
+        if: ${{ env.BRANCH_D == 'test' }}
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
