@@ -5,7 +5,7 @@ on:
     branches:
       - main
 env:
-  DAY_OF_WEEK: Monday
+  DAY_OF_WEEK: Tuesday
   
 jobs:
   Explore-GitHub-Actions-Demo01:
