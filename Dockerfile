@@ -18,7 +18,7 @@ LABEL \
   name="system" \
   version="$VERSION-$REVISION" \
   summary="The sys MS from the Docker Guide." \
-  description="This image contains the system MS running with the Open Liberty runtime."
+  description="This image contains the system microservice running with the Open Liberty runtime."
 
 USER root
 
