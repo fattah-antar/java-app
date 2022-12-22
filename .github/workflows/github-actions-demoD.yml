@@ -26,9 +26,9 @@ jobs:
       - Explore-GitHub-Actions-Demo001
       - Explore-GitHub-Actions-Demo002
     runs-on: ubuntu-latest
-    if: ${{ env.BRANCH_D == 'features/issue3' }}
     steps:
       - name: List files in the repository
+        if: ${{ env.BRANCH_D == 'features/issue3' }}
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
