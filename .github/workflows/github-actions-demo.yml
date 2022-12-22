@@ -13,6 +13,7 @@ jobs:
   Explore-GitHub-Actions-Demo01:
     needs: Explore-GitHub-Actions
     runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/staging-')
     steps:
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
@@ -21,7 +22,7 @@ jobs:
       - Explore-GitHub-Actions
       - Explore-GitHub-Actions-Demo01
     runs-on: ubuntu-latest
-    if: needs.Explore-GitHub-Actions-Demo01.result == 'skipped' || needs.Explore-GitHub-Actions.result == 'success'
+    if: needs.Explore-GitHub-Actions-Demo01.result == 'success' || needs.Explore-GitHub-Actions.result == 'success'
     steps:
       - name: List files in the repository
         run: |
