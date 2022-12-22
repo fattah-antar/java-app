@@ -1,5 +1,7 @@
 name: GitHub Actions DemoD
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+env:
+  BRANCH_D: features/issue2
 on:
   push:
     branches:
@@ -24,6 +26,7 @@ jobs:
       - Explore-GitHub-Actions-Demo001
       - Explore-GitHub-Actions-Demo002
     runs-on: ubuntu-latest
+    if: ${{ env.BRANCH_D == 'features/issue3' }}
     steps:
       - name: List files in the repository
         run: |
