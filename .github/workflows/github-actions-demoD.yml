@@ -1,11 +1,11 @@
-name: GitHub Actions Demo
+name: GitHub Actions DemoD
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
   push:
     branches:
-      - main
+      - 'features/**'
 jobs:
-  Explore-GitHub-Actions-Demo01:
+  Explore-GitHub-Actions-Demo001:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -13,16 +13,16 @@ jobs:
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Check out repository code
         uses: actions/checkout@v3
-  Explore-GitHub-Actions-Demo02:
-    needs: Explore-GitHub-Actions-Demo01
+  Explore-GitHub-Actions-Demo002:
+    needs: Explore-GitHub-Actions-Demo001
     runs-on: ubuntu-latest
     steps:
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-  Explore-GitHub-Actions-Demo03:
+  Explore-GitHub-Actions-Demo003:
     needs:
-      - Explore-GitHub-Actions-Demo01
-      - Explore-GitHub-Actions-Demo02
+      - Explore-GitHub-Actions-Demo001
+      - Explore-GitHub-Actions-Demo002
     runs-on: ubuntu-latest
     steps:
       - name: List files in the repository
