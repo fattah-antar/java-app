@@ -17,8 +17,8 @@ LABEL \
   vendor="Open Liberty" \
   name="system" \
   version="$VERSION-$REVISION" \
-  summary="The system ms from the Docker Guide." \
-  description="This image contains the system ms running with the Open Liberty runtime."
+  summary="The sys ms from the Docker Guide." \
+  description="This image contains the sys ms running with the Open Liberty runtime."
 
 USER root
 
