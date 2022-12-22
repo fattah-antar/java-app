@@ -8,7 +8,7 @@ ARG USER_HOME_DIR="/root"
 ARG BASE_URL=https://apache.osuosl.org/maven/maven-3/${MAVEN_VERSION}/binaries
 
 LABEL \
-  org.opencontainers.image.authors="Your Name" \
+  org.opencontainers.image.authors="Abdelfattah Antar" \
   org.opencontainers.image.vendor="IBM" \
   org.opencontainers.image.url="local" \
   org.opencontainers.image.source="https://github.com/OpenLiberty/guide-docker" \
